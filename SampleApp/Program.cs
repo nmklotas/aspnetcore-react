@@ -1,8 +1,5 @@
-using System;
-using SampleApp.Phones.Data;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Logging;
 
 namespace SampleApp
 {
